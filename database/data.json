@@ -91,7 +91,7 @@
       "id": "shogun-2024"
     }
   ],
-  "update_movies": [
+  "update_all": [
     {
       "title_vi": "Vong Hồn Rước Lễ",
       "title_en": "The Communion Girl",
@@ -273,7 +273,7 @@
       "id": "trng-an-ba-vn-dm-2024"
     }
   ],
-  "update_tv_dramas": [
+  "update_movies": [
     {
       "title_vi": "Mở Mắt Thấy Hôm Qua",
       "title_en": "Mở Mắt Thấy Hôm Qua",
@@ -455,7 +455,7 @@
       "id": "phim-phi-hnh-gia-2024"
     }
   ],
-  "favorite_movies": [
+  "update_tv_dramas": [
     {
       "title_vi": "Phim Trừ Tam Hại",
       "title_en": "Phim Trừ Tam Hại",
@@ -637,7 +637,7 @@
       "id": "u-ph-thng-khung-phn-5-2024"
     }
   ],
-  "recommended_movies": [
+  "favorite_movies": [
     {
       "title_vi": "Dữ Phượng Hành",
       "title_en": "Dữ Phượng Hành",
@@ -817,7 +817,9 @@
       "status": "11/25 Thuyết Minh",
       "year": "2024",
       "id": "nguyt-o-d-gii-phn-2-2024"
-    },
+    }
+  ],
+  "recommended_movies": [
     {
       "title_vi": "Đại Tướng Quân",
       "title_en": "Đại Tướng Quân",
