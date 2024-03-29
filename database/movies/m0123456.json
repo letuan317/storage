@@ -8,13 +8,17 @@
   "country": "Trung Quốc",
   "total_episodes": 20,
   "length": "45 phút / tập",
+  "created_at": "",
+  "description": "Dữ Phượng Hành được chuyển thể từ tiểu thuyết cùng tên của Cửu Lộ Phi Hương. Các vị thần thượng cổ đều đã không còn, chỉ còn lại vị thần quân cuối cùng trên thế gian - Hành Chỉ. Nghe đồn Hành Chỉ thần quân đã sống cô độc ở Thiên Ngoại Thiên mấy vạn năm, không có tình cảm cũng không có dục vọng. Trong đại chiến Tiên Ma, Hành Chỉ một tay lật ngược tình thế, từ đó đóng cửa không tiếp khách, khó thấy bóng dáng. Mấy trăm năm chỉ như một cái chớp mắt. Thẩm Ly, nữ vương gia của Ma giới sinh ra trong phú quý, vào sinh nhật một ngàn tuổi của nàng, một cuộc liên hôn chính trị ập tới. Trên đường bỏ trốn, Thẩm Ly bị đánh về nguyên hình là một con phượng hoàng, trọng thương rơi xuống nhân gian. Khi nàng trọng thương hôn mê bất tỉnh, một người bán hàng rong dưới trần coi nàng như con gà béo, vặt sạch lông, nhốt vào lồng chờ bán. Thẩm Ly tỉnh dậy thấy vậy thì vô cùng tức giận, nhưng lại không thể làm gì được. Vào lúc nàng đang ủ rũ chán chường, một nam tử tuấn tú áo xanh đi ngang qua, chàng trầm tư nhìn nàng hồi lâu rồi mỉm cười: “Ta muốn con này.” Vận mệnh của hai người trở nên gắn bó chặt chẽ bởi một cuộc mua bán tưởng chừng như vô tình.",
   "types": ["Cổ Trang", "Thần Thoại"],
   "actresses": ["Triệu Lệ Dĩnh", "Lâm Canh Tân", "Tân Vân Lai", "Hà Dữ", "Lý Gia Kỳ", "Tăng Lê"],
+  "keywords": ["the legend of shen li", "dữ phượng hành"],
   "episodes": [
     {
       "_id": "e123456",
       "movie_id": "m0123456",
       "episode": 1,
+      "created_at": "",
       "servers_tm": [
         {
           "_id": "s234561",
@@ -81,11 +85,7 @@
           "episode_id": "e123456",
           "created_at": ""
         }
-      ],
-      "created_at": ""
+      ]
     }
-  ],
-  "description": "Dữ Phượng Hành được chuyển thể từ tiểu thuyết cùng tên của Cửu Lộ Phi Hương. Các vị thần thượng cổ đều đã không còn, chỉ còn lại vị thần quân cuối cùng trên thế gian - Hành Chỉ. Nghe đồn Hành Chỉ thần quân đã sống cô độc ở Thiên Ngoại Thiên mấy vạn năm, không có tình cảm cũng không có dục vọng. Trong đại chiến Tiên Ma, Hành Chỉ một tay lật ngược tình thế, từ đó đóng cửa không tiếp khách, khó thấy bóng dáng. Mấy trăm năm chỉ như một cái chớp mắt. Thẩm Ly, nữ vương gia của Ma giới sinh ra trong phú quý, vào sinh nhật một ngàn tuổi của nàng, một cuộc liên hôn chính trị ập tới. Trên đường bỏ trốn, Thẩm Ly bị đánh về nguyên hình là một con phượng hoàng, trọng thương rơi xuống nhân gian. Khi nàng trọng thương hôn mê bất tỉnh, một người bán hàng rong dưới trần coi nàng như con gà béo, vặt sạch lông, nhốt vào lồng chờ bán. Thẩm Ly tỉnh dậy thấy vậy thì vô cùng tức giận, nhưng lại không thể làm gì được. Vào lúc nàng đang ủ rũ chán chường, một nam tử tuấn tú áo xanh đi ngang qua, chàng trầm tư nhìn nàng hồi lâu rồi mỉm cười: “Ta muốn con này.” Vận mệnh của hai người trở nên gắn bó chặt chẽ bởi một cuộc mua bán tưởng chừng như vô tình.",
-  "keywords": ["the legend of shen li", "dữ phượng hành"],
-  "created_at": ""
+  ]
 }
