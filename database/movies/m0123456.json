@@ -17,14 +17,71 @@
       "episode": 1,
       "servers_tm": [
         {
-          "id": "s23456",
+          "_id": "s234561",
           "name": "DoodStream",
           "type": "embed",
           "url": "https://d000d.com/e/sw96pf9ntlae",
+          "sub": "tm",
+          "episode_id": "e123456",
+          "created_at": ""
+        },
+        {
+          "_id": "s234562",
+          "name": "OK",
+          "type": "embed",
+          "url": "//ok.ru/videoembed/7657996946006",
+          "sub": "tm",
+          "episode_id": "e123456",
+          "created_at": ""
+        },
+        {
+          "_id": "s234563",
+          "name": "StreamTape",
+          "type": "embed",
+          "url": "https://streamtape.com/e/2BQGMPBk1KUWBr/",
+          "sub": "tm",
+          "episode_id": "e123456",
+          "created_at": ""
+        },
+        {
+          "_id": "s234564",
+          "name": "Abyss",
+          "type": "embed",
+          "url": "https://short.ink/44zBk_DXN",
+          "sub": "tm",
+          "episode_id": "e123456",
           "created_at": ""
         }
       ],
-      "servers_vietsub": [],
+      "servers_vietsub": [
+        {
+          "_id": "s2345671",
+          "name": "DoodStream",
+          "type": "embed",
+          "url": "https://doodstream.com/d/sw96pf9ntlae",
+          "sub": "tm",
+          "episode_id": "e123456",
+          "created_at": ""
+        },
+        {
+          "_id": "s2345672",
+          "name": "StreamTape",
+          "type": "link",
+          "url": "https://streamtape.com/v/2BQGMPBk1KUWBr/The_Perfect_World_E78_-_Vietsub.mp4",
+          "sub": "tm",
+          "episode_id": "e123456",
+          "created_at": ""
+        },
+        {
+          "_id": "s2345673",
+          "name": "OK",
+          "type": "embed",
+          "url": "https://ok.ru/video/7657996946006",
+          "sub": "tm",
+          "episode_id": "e123456",
+          "created_at": ""
+        }
+      ],
       "created_at": ""
     }
   ],
